@@ -144,7 +144,7 @@ const route = useRoute()
                 "Smart Applications Development – Developed smart home, industrial, and cloud-connected applications combining sensors, wireless protocols, dashboards, and automation logic.",
                 "Capstone Project – Designed and built a complete IoT system including architecture, device programming, cloud integration, testing, debugging, and final project presentation."
             ],
-            issueDate: '15, July, 2025',
+            issueDate: '5, July, 2025',
             organization: 'Atsba'
         },
         {
