@@ -2,9 +2,9 @@ module.exports = {
     apps: [
         {
             name: 'Cert',
-            port: '8889',
+            port: '9001',
             exec_mode: 'fork',
-            instances: 'max',
+            instances: '1',
             script: './.output/server/index.mjs'
         }
     ]
